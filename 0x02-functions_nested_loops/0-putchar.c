@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 /**
  * main - print _putchar
  * is written by Olayenikan Michael
